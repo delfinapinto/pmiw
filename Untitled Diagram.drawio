@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1100" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="533" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -155,37 +155,48 @@
           <mxGeometry x="387.5" y="-1167" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-126" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vivís&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; ahi un año y falleces, junto a tu gato&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="605" y="-1307" width="80" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-131" target="qpTZinKkhhto3AtR0Ls4-138">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="-1197" />
-              <mxPoint x="730" y="-1167" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="590" y="-1317" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-131" value="Encuentras un espantapájaros mágico que te guía a un castillo ambulante" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="-1227" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="-1227" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-136" target="qpTZinKkhhto3AtR0Ls4-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-136" value="El granjero te indica un castillo donde vive un mago capaz de curarte" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="-1157" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="-1162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-138" value="En el castillo, conoces a Calcifer, un demonio de fuego que da energía al lugar. Te ofrece un trato: si lo ayudas a romper su maldición, él te ayudará con la tuya." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="-1217" width="150" height="100" as="geometry" />
+          <mxGeometry x="800" y="-1210" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=-0.019;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qpTZinKkhhto3AtR0Ls4-144">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="132" y="-979" as="targetPoint" />
-            <mxPoint x="890" y="-1160" as="sourcePoint" />
+            <mxPoint x="112" y="-930" as="targetPoint" />
+            <mxPoint x="870" y="-1111" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="890" y="-1030" />
-              <mxPoint x="133" y="-1030" />
+              <mxPoint x="870" y="-1041" />
+              <mxPoint x="141" y="-1041" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qpTZinKkhhto3AtR0Ls4-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.5" y="-1196.25" as="sourcePoint" />
+            <mxPoint x="799.5" y="-1224.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="-1196" />
+              <mxPoint x="750" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-144" value="¿Aceptas el trato?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="82" y="-990" width="118" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-145" value="Piensas que no tienes nada que perder, aceptas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="-1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
