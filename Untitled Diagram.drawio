@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="533" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -175,7 +175,7 @@
             <mxPoint x="870" y="-1111" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="870" y="-1041" />
-              <mxPoint x="141" y="-1041" />
+              <mxPoint x="89" y="-1041" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,14 +189,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-144" value="¿Aceptas el trato?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82" y="-990" width="118" height="120" as="geometry" />
+          <mxGeometry x="30" y="-990" width="118" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-152" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-145" target="qpTZinKkhhto3AtR0Ls4-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-145" value="Piensas que no tienes nada que perder, aceptas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="-1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="-1015" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-145">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-145">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-150" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-147" target="qpTZinKkhhto3AtR0Ls4-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-147" value="Desconfías de sus intenciones, te niegas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="-935" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-149" target="qpTZinKkhhto3AtR0Ls4-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-149" value="Te convertís en ama de llaves del castillo, ya que no tienes donde ir" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="-930" width="132.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-151" target="qpTZinKkhhto3AtR0Ls4-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-151" value="Te liberás del hechizo y te conviertes en aprendiz del mago, para encontrar un nuevo sentido en tu vida" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="-1020" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-157" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-153" target="qpTZinKkhhto3AtR0Ls4-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-153" value="Empiezas a tener una relación más cercana con Howl (el mago) y te cuenta que fue convocado a la guerra de pueblos que se está desatando" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525" y="-990" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-156" value="¿Qué consejo ves más adecuado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="-1000" width="118" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
