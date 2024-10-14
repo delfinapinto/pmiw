@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2514" dy="4040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="202" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="tHahOKPxvCsYrug98zH9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="tHahOKPxvCsYrug98zH9-0">
+        <mxCell id="tHahOKPxvCsYrug98zH9-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="tHahOKPxvCsYrug98zH9-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Eres Sophie, una joven reservada y responsable. Como la mayor de tres hermanas, dedicas tu vida al taller de sombreros que heredaste de tu padre. Aunque tus manos crean piezas hermosas, Sope te percibes como alguien común, destinada a una vida sin grandes aventuras.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="-2780" width="280" height="150" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Eres Sophie, una joven reservada y responsable. Como la mayor de tres hermanas, dedicas tu vida al taller de sombreros que heredaste de tu padre. Aunque tus manos crean piezas hermosas, Sope te percibes como alguien común, destinada a una vida sin grandes aventuras.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-2780" width="300" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="unTZaBpB1VAai0DOxp5j-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="unTZaBpB1VAai0DOxp5j-1" target="unTZaBpB1VAai0DOxp5j-2" edge="1">
+        <mxCell id="unTZaBpB1VAai0DOxp5j-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="unTZaBpB1VAai0DOxp5j-1" target="unTZaBpB1VAai0DOxp5j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="unTZaBpB1VAai0DOxp5j-1" target="unTZaBpB1VAai0DOxp5j-4" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="unTZaBpB1VAai0DOxp5j-1" target="unTZaBpB1VAai0DOxp5j-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unTZaBpB1VAai0DOxp5j-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;El día comienza&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;y te&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sientes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;inquieta, el aire&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;está distinto&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;¿Qué decidirás hacer&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;este&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;presentimiento&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -24,35 +24,41 @@
             <mxPoint x="590" y="-2311.344827586207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unTZaBpB1VAai0DOxp5j-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Permanecer en la tienda, donde todo parece bajo control&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="-2540" width="180" height="90" as="geometry" />
+        <mxCell id="unTZaBpB1VAai0DOxp5j-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Permanecer en la tienda, donde todo parece bajo control&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="296.88" y="-2540" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="unTZaBpB1VAai0DOxp5j-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="unTZaBpB1VAai0DOxp5j-4" target="qpTZinKkhhto3AtR0Ls4-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="589.9999999999999" y="-2154.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unTZaBpB1VAai0DOxp5j-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Salir a descubrir lo que esconde la bulliciosa ciudad&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="unTZaBpB1VAai0DOxp5j-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Salir a descubrir lo que esconde la bulliciosa ciudad&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="-2435" width="183.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-0" target="qpTZinKkhhto3AtR0Ls4-10">
+        <mxCell id="tHahOKPxvCsYrug98zH9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-0" target="qpTZinKkhhto3AtR0Ls4-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="-2495" />
-              <mxPoint x="780" y="-2436" />
+              <mxPoint x="784" y="-2495" />
+              <mxPoint x="790" y="-2495" />
+              <mxPoint x="790" y="-2436" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-0" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Atiendes clientes como siempre. Entra a la tienda una señora que parece malvada, resulta ser una bruja&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="525" y="-2535" width="210" height="80" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-0" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Atiendes clientes como siempre. Entra a la tienda una señora que parece malvada, resulta ser una bruja&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="525" y="-2535" width="255" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-8" target="qpTZinKkhhto3AtR0Ls4-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tHahOKPxvCsYrug98zH9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-8" target="qpTZinKkhhto3AtR0Ls4-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="-2390" />
+              <mxPoint x="790" y="-2436" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Eres acosada por soldados y rescatada por un misterioso mago. Son perseguidos por entes tenebrosos, el mago te deja en un lugar  que creías seguro..&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="-2440" width="240" height="90" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Eres acosada por soldados y rescatada por un misterioso mago. Son perseguidos por entes tenebrosos, el mago te deja en un lugar  que creías seguro..&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="-2440" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-10" target="tHahOKPxvCsYrug98zH9-6">
+        <mxCell id="tHahOKPxvCsYrug98zH9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-10" target="tHahOKPxvCsYrug98zH9-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="-2440" as="sourcePoint" />
             <Array as="points">
@@ -60,14 +66,15 @@
               <mxPoint x="1040" y="-2440" />
               <mxPoint x="1040" y="-2300" />
               <mxPoint x="110" y="-2300" />
-              <mxPoint x="110" y="-2240" />
+              <mxPoint x="110" y="-2250" />
+              <mxPoint x="112" y="-2250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Una bruja te hechiza, convirtiéndote en una anciana, incapaz de hablar sobre tu maldición.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="800" y="-2490" width="220" height="107" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Una bruja te hechiza, convirtiéndote en una anciana, incapaz de hablar sobre tu maldición.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="814" y="-2489" width="220" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-120" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qpTZinKkhhto3AtR0Ls4-119" edge="1" source="tHahOKPxvCsYrug98zH9-6">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-120" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-6" target="qpTZinKkhhto3AtR0Ls4-119" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="-2007" as="sourcePoint" />
             <mxPoint x="400.5" y="-2042" as="targetPoint" />
@@ -79,164 +86,177 @@
             <mxPoint x="555.5" y="-2042" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-119" value="Resignada al hechizo,&amp;nbsp;&lt;div&gt;te instalas en un geriátrico, aceptando tu nuevo destino&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="235" y="-2280" width="155" height="80" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-119" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Resignada al hechizo,&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;te instalas en un geriátrico, aceptando tu nuevo destino&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="-2260" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-135" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-122" target="qpTZinKkhhto3AtR0Ls4-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-122" value="partes hacia las montañas en busca de una cura" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="-2185" width="155" height="60" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-122" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Partes hacia las&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;montañas en busca de una cura&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="-2150" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-126" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vivís&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; ahi un año y falleces, junto a tu gato&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;size=0.43703703703703706;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="455" y="-2270" width="90" height="85" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-126" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vivís&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; ahi un año y falleces, junto a tu gato&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;size=0.43703703703703706;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="-2250" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-131" value="Encuentras un espantapájaros mágico que te guía a un castillo ambulante" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="-2170" width="120" height="60" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-131" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Encuentras un espantapájaros mágico que te guía a un castillo ambulante&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="-2150" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-131" target="qpTZinKkhhto3AtR0Ls4-138" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-131" target="qpTZinKkhhto3AtR0Ls4-138" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="-2051.909090909091" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qpTZinKkhhto3AtR0Ls4-144">
+        <mxCell id="tHahOKPxvCsYrug98zH9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qpTZinKkhhto3AtR0Ls4-144" edge="1" source="qpTZinKkhhto3AtR0Ls4-138">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="-1990" as="targetPoint" />
             <mxPoint x="860" y="-2130" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="860" y="-2030" />
-              <mxPoint x="106" y="-2030" />
+              <mxPoint x="990" y="-2125" />
+              <mxPoint x="990" y="-2030" />
+              <mxPoint x="93" y="-2030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-138" value="En el castillo, conoces a Calcifer, un demonio de fuego que da energía al lugar. Te ofrece un trato: si lo ayudas a romper su maldición, él te ayudará con la tuya." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="-2190" width="205" height="100" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-138" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;En el castillo, conoces a Calcifer, un demonio de fuego que da energía al lugar. Te ofrece un trato: si lo ayudas a romper su maldición, él te ayudará con la tuya.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="-2180" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-147" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-144" value="¿Aceptas el trato?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="47" y="-1945" width="118" height="120" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-144" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;¿Aceptas el trato?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="-1945" width="145" height="135" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-152" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-145" target="qpTZinKkhhto3AtR0Ls4-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-145" value="Piensas que no tienes nada que perder, aceptas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="-1960" width="120" height="70" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-145" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Piensas que no&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;tienes nada que perder, aceptas&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227.5" y="-1960" width="172.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-145" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-144" target="qpTZinKkhhto3AtR0Ls4-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-150" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-147" target="qpTZinKkhhto3AtR0Ls4-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-147" value="Desconfías de sus intenciones, te niegas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="211" y="-1850" width="130" height="70" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-147" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Desconfías de sus intenciones, te niegas&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="218" y="-1850" width="172" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-155" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-149" target="qpTZinKkhhto3AtR0Ls4-153" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-155" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-149" target="qpTZinKkhhto3AtR0Ls4-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-149" value="Te convertís en ama de llaves del castillo, ya que no tienes donde ir" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="-1815" width="132.5" height="65" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-149" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Te convertís en ama de llaves del castillo, ya que no tienes donde ir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="422.5" y="-1855" width="155" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-151" target="tHahOKPxvCsYrug98zH9-11">
+        <mxCell id="tHahOKPxvCsYrug98zH9-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-151" target="tHahOKPxvCsYrug98zH9-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-151" value="Te liberás del hechizo y te conviertes en aprendiz del mago, para encontrar un nuevo sentido en tu vida" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="-1960" width="132.5" height="80" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-151" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Te liberás del hechizo y te conviertes en aprendiz del mago, para encontrar un nuevo sentido en tu vida&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="-1965" width="200" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-153" value="Empiezas a tener una relación más cercana con Howl (el mago) y te cuenta que fue convocado a la guerra de pueblos que se está desatando" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="-1832.5" width="190" height="100" as="geometry" />
+        <mxCell id="DDcElULkbMWMPyxahOJU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-153" target="qpTZinKkhhto3AtR0Ls4-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="851" y="-1800" />
+              <mxPoint x="920" y="-1800" />
+              <mxPoint x="920" y="-1720" />
+              <mxPoint x="98" y="-1720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-159" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-156" target="qpTZinKkhhto3AtR0Ls4-158" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-153" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Empiezas a tener una relación más cercana con Howl (el mago) y te cuenta que fue convocado a la guerra de pueblos que se está desatando&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="631.5" y="-1855" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-159" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#000000;entryX=-0.003;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-156" target="qpTZinKkhhto3AtR0Ls4-158" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="-1615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-161" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-156" target="qpTZinKkhhto3AtR0Ls4-160" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-161" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.563;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#000000;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-156" target="qpTZinKkhhto3AtR0Ls4-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-156" value="¿Qué consejo ves más adecuado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="41" y="-1620" width="118" height="120" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-156" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;¿Qué consejo ves&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;más adecuado?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="-1640" width="156" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-163" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-158" target="qpTZinKkhhto3AtR0Ls4-162" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-158" value="Que haga justicia en la guerra, ofreciéndole tu apoyo para enfrentar el conflicto juntos." style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="-1660" width="152" height="90" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-158" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Que haga justicia en la&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;guerra, ofreciéndole tu apoyo para enfrentar el conflicto juntos.&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227.5" y="-1665" width="182.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-165" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-160" target="qpTZinKkhhto3AtR0Ls4-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-160" value="Que no se involucre, advirtiéndole sobre los peligros y las consecuencias de&lt;div&gt;&amp;nbsp;luchar.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225" y="-1545" width="150" height="90" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-160" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Que no se&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;involucre, advirtiéndole&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;sobre los peligros y las consecuencias de&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;luchar.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="225" y="-1530" width="175" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-175" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-162" target="qpTZinKkhhto3AtR0Ls4-166" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-175" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-162" target="qpTZinKkhhto3AtR0Ls4-166" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-1635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-162" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Luego de participar en la guerra&amp;nbsp;Howl y tu se encuentran cara a cara con la bruja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="-1665" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-176" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-164" target="qpTZinKkhhto3AtR0Ls4-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-162" value="Luego de participar en la guerra&amp;nbsp;Howl y tu se encuentran cara a cara con la bruja" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="-1660" width="130" height="95" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-164" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Howl te pide que te hagas pasar por su madre e ir en su lugar a rechazar la oferta en la corte&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="-1535" width="185" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-176" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-164" target="qpTZinKkhhto3AtR0Ls4-174" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-164" value="Howl te pide que te hagas pasar por su madre e ir en su lugar a rechazar la oferta en la corte" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="475" y="-1550" width="130" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-171" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-166" target="qpTZinKkhhto3AtR0Ls4-170" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-171" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-166" target="qpTZinKkhhto3AtR0Ls4-170" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="417" y="-1455" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-173" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=-0.019;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-166" target="qpTZinKkhhto3AtR0Ls4-172" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-173" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-166" target="qpTZinKkhhto3AtR0Ls4-172" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-166" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;En esta situación inesperada y terrorosa, ¿Qué deciden&amp;nbsp;&lt;div&gt;hacer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="-1727.5" width="133" height="130" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-166" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;En esta situación inesperada y terrorosa, ¿Qué deciden&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;hacer?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="-1700" width="158" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-184" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-170" target="qpTZinKkhhto3AtR0Ls4-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-170" value="Luchar aún cuando los poderes de Howl están en juego, ya que la bruja es muy poderosa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="-1715" width="152" height="90" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-170" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Luchar aún cuando los&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;poderes de Howl están en juego, ya que la bruja es muy poderosa&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="-1730" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-186" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-172" target="qpTZinKkhhto3AtR0Ls4-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-172" value="Huir para buscar refugio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="975" y="-1597.5" width="117" height="60" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-172" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Huir para buscar refugio&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="933" y="-1630" width="117" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-178" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-174" target="qpTZinKkhhto3AtR0Ls4-177" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-178" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-174" target="qpTZinKkhhto3AtR0Ls4-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-180" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-174" target="qpTZinKkhhto3AtR0Ls4-179" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-180" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-174" target="qpTZinKkhhto3AtR0Ls4-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-174" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Decides seguirle&amp;nbsp;&lt;div&gt;la corriente con el engaño?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="760" y="-1597.5" width="133" height="130" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-174" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Decides seguirle&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;la corriente con el engaño?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="692.5" y="-1552.5" width="133" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-182" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-177" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-182" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-177" edge="1" target="qpTZinKkhhto3AtR0Ls4-200">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="-1277.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-177" value="Te arriesgas por él y eliges ir" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="-1437.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="631.5" y="-1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-193" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-179" target="qpTZinKkhhto3AtR0Ls4-192" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-179" value="Prefieres no involucrarte&amp;nbsp;&lt;div&gt;en su lugar, preocupada por las repercusiones de engañar a la corte y temiendo por la seguridad de Howl.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="-1430" width="180" height="100" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-179" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Prefieres no involucrarte&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;en su lugar, preocupada por las repercusiones de engañar a la corte y temiendo por la seguridad de Howl.&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="825.5" y="-1430" width="208.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-183" value="&lt;div&gt;Se revierte tu maldición a costa de los poderes de Howl. La guerra continúa y viven huyendo&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1130" y="-1700" width="130" height="110" as="geometry" />
+          <mxGeometry x="1130" y="-1720" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-199" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-185" target="qpTZinKkhhto3AtR0Ls4-194" edge="1">
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-199" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-185" target="qpTZinKkhhto3AtR0Ls4-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-185" value="A medida que avanza la guerra tus poderes y los de Howl se van desgastando" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1050" y="-1470" width="130" height="70" as="geometry" />
+          <mxGeometry x="1140" y="-1605" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -244,35 +264,51 @@
             <mxPoint x="585" y="-1235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpTZinKkhhto3AtR0Ls4-195" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-192" target="qpTZinKkhhto3AtR0Ls4-194" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qpTZinKkhhto3AtR0Ls4-195" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.444;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qpTZinKkhhto3AtR0Ls4-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="957.5676595744683" y="-1191.67" as="sourcePoint" />
+            <mxPoint x="933" y="-1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-192" value="La bruja manda entes a secuestrarte para atraer a Howl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="860" y="-1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="-1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-194" value="&lt;div&gt;La bruja mata a Howl y por el vacío te mueres de la tristeza&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1070" y="-1250" width="110" height="85" as="geometry" />
+          <mxGeometry x="890" y="-1190" width="110" height="85" as="geometry" />
         </mxCell>
         <mxCell id="qpTZinKkhhto3AtR0Ls4-200" value="En la reunión aparece la bruja y la hechicera de la corte le quita los poderes, liberándote consecuentemente de&lt;div&gt;&amp;nbsp;la maldición&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;size=0.29411764705882354;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="-1337.5" width="137" height="115" as="geometry" />
+          <mxGeometry x="623" y="-1280" width="137" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-0" target="tHahOKPxvCsYrug98zH9-1">
+        <mxCell id="tHahOKPxvCsYrug98zH9-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-0" target="tHahOKPxvCsYrug98zH9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;La ciudad donde vives está llena de vida y magia, con hechiceros, castillos voladores y encantamientos en cada rincón. Pero prefieres la tranquilidad del taller, donde el ritmo del trabajo y lo conocido son tu refugio. Fuera de esas paredes, el mundo le parece demasiado impredecible&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="366" y="-2780" width="284" height="150" as="geometry" />
+        <mxCell id="tHahOKPxvCsYrug98zH9-0" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;La ciudad donde vives está llena de vida y magia, con hechiceros, castillos voladores y encantamientos en cada rincón. Pero prefieres la tranquilidad del taller, donde el ritmo del trabajo y lo conocido son tu refugio. Fuera de esas paredes, el mundo le parece demasiado impredecible&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="396" y="-2780" width="294" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-1" target="unTZaBpB1VAai0DOxp5j-1">
+        <mxCell id="tHahOKPxvCsYrug98zH9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-1" target="unTZaBpB1VAai0DOxp5j-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Aunque estás rodeada por la bulliciosa vida de la ciudad y de tus hermanas, tu vida es solitaria. Sientes que su lugar de observadora. En tu corazón, guardas el anhelo de algo más, aunque no te atreves a imaginar qué podría ser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="-2780" width="270" height="150" as="geometry" />
+        <mxCell id="tHahOKPxvCsYrug98zH9-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Aunque estás rodeada por la bulliciosa vida de la ciudad y de tus hermanas, tu vida es solitaria. Sientes que su lugar de observadora. En tu corazón, guardas el anhelo de algo más, aunque no te atreves a imaginar qué podría ser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#cce5ff;strokeColor=#7EA6E0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="751.5" y="-2780" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-6" value="&lt;div&gt;En medio de la&lt;/div&gt;&lt;div&gt;&amp;nbsp;desesperación&lt;/div&gt;&lt;div&gt;&amp;nbsp;¿Qué decides hacer al respecto?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="-2240" width="170" height="170" as="geometry" />
+        <mxCell id="DDcElULkbMWMPyxahOJU-0" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-6" target="qpTZinKkhhto3AtR0Ls4-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tHahOKPxvCsYrug98zH9-11" value="En una de las &quot;clases&quot; de magia Howl te cuenta que fue convocado a la guerra y no sabe que hacer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="-1970" width="190" height="100" as="geometry" />
+        <mxCell id="tHahOKPxvCsYrug98zH9-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;En medio de la&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;desesperación&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;¿Qué decides hacer al respecto?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="16.5" y="-2245" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DDcElULkbMWMPyxahOJU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tHahOKPxvCsYrug98zH9-11" target="qpTZinKkhhto3AtR0Ls4-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190.0000000000001" y="-1710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="-1920" />
+              <mxPoint x="920" y="-1720" />
+              <mxPoint x="98" y="-1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHahOKPxvCsYrug98zH9-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;En una de las &quot;clases&quot; de magia Howl te cuenta que fue convocado a la guerra y no&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;sabe que hacer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="-1970" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
