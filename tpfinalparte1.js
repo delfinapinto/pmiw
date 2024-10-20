@@ -2,6 +2,8 @@
            //120360/1            //119111/8
 // Comisión 4
 
+// video de Delfina Pinto: https://www.youtube.com/watch?v=OWfMVS1aHns&t=9s
+
 // Arreglos y variables
 let imagenes = [];        
 let textos = [];          
