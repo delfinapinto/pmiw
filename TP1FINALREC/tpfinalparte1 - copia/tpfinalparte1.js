@@ -1,6 +1,7 @@
 ///Pilar Rancaño Luchetti y Delfina Pinto Guzman   
            //120360/1            //119111/8
 // Comisión 4
+//LINK A YOUTUBE DELFINA P: 
 let imagenes = [];
 let textos = [];
 let estadoActual = 0;
